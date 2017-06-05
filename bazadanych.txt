@@ -1,0 +1,8 @@
+27729||Janusz||Nowak||903092901||Kalinowa 30||2000.38
+82645||Kubson||Klink||9098818921||Wola Wężykowa 91||988981.9
+62334||x||Ka||12-0||KK||-999.0
+83427||Jerzy||Kutas||ad123452342||Mam piec flach||9127218.88
+18150||Grzegorz||Banach||i8726412345||kurwa||-1000.0
+3227||Wojtek||Szczepaniak||18574027421||Setka na setke||82981.0
+69840||Ryszard||Rynkowski||82174621971||Kraków Wawel 30||99999.0
+54327||Henryk||Sienkiewicz||19284723921||Hel 30||7000.0
